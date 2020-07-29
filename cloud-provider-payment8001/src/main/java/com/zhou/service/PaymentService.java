@@ -7,6 +7,6 @@ public interface PaymentService {
 
     int createPayment(Payment payment);
 
-    Payment getPaymentById(long id);
+    Payment getPaymentById(Long id);
 
 }

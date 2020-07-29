@@ -9,5 +9,5 @@ public interface PaymentDao {
 
     int createPayment(Payment payment);
 
-    Payment getPaymentById(@Param("id") long id);
+    Payment getPaymentById(@Param("id") Long id);
 }
