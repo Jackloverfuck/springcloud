@@ -7,7 +7,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
-    url: jdbc:mysql://47.97.127.213:3306/zlk_springboot_crud?serverTimezone=UTC
+    url: jdbc:mysql://47.97.127.213:3306/springcloud?serverTimezone=UTC
     username: root
     password: root
 

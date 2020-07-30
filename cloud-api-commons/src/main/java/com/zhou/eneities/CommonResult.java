@@ -1,4 +1,4 @@
-package com.zhou.CommonResult;
+package com.zhou.eneities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
