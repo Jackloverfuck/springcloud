@@ -1,7 +1,7 @@
 package com.zhou.serviceImp;
 
 import com.zhou.dao.PaymentDao;
-import com.zhou.entities.Payment;
+import com.zhou.eneities.Payment;
 import com.zhou.service.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
