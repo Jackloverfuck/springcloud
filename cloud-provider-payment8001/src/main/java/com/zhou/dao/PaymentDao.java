@@ -1,6 +1,6 @@
 package com.zhou.dao;
 
-import com.zhou.entities.Payment;
+import com.zhou.eneities.Payment;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
 package com.zhou.controller;
 
-import com.zhou.commonResult.CommonResult;
+import com.zhou.eneities.CommonResult;
 import com.zhou.eneities.Payment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

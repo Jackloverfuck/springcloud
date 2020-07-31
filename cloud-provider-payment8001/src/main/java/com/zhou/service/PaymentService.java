@@ -1,7 +1,6 @@
 package com.zhou.service;
 
-import com.zhou.entities.Payment;
-import org.apache.ibatis.annotations.Param;
+import com.zhou.eneities.Payment;
 
 public interface PaymentService {
 
